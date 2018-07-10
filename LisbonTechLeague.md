@@ -1,6 +1,5 @@
 # Overview
-Lisbon Tech League (LTL) intentions of publishing an Acceptable Community Policy (ACP) are not to impose restrictions to each community established culture under the umbrella LTL, the ACP goal is to be transparent to any participant, colaborator, business, other communties or any entity that interact with any of a LTL, 
-To any community wanting to join LTL it will also be able to understand how all communities guide themselves and if it includes itself under the same values.
+Lisbon Tech League (LTL) intentions of publishing an Acceptable Community Policy (ACP) are not to impose restrictions to each community established culture and organization, the ACP goal is to be transparent to any participant, colaborator, business, other communties or any entity that interact with any member of LTL. 
 This is the practicality of our Manifesto.
 
 # Purpose
